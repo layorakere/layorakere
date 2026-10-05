@@ -17,7 +17,7 @@
 
 I’m a Data Analyst with a background in Animal Nutrition & Biotechnology, where I developed a structured approach to research, problem-solving, and working carefully with information.
 
-I’ve carried that analytical foundation into Data Analytics, working with Excel, SQL, Power Query, and Power BI to explore datasets, identify patterns, analyse performance, and build dashboards that communicate findings clearly. I enjoy working through the process from raw data to a well-structured analysis, and my repositories reflect the practical work I’m building along the way.
+I’ve carried that analytical foundation into Data Analytics, working with Excel, SQL, Power Query, and Power BI to explore datasets, identify patterns, analyse performance, and build dashboards that communicate findings clearly. I enjoy working through the process from raw data to a well-structured analysis, with a focus on producing clear, thoughtful, and reliable results.
 
 Beyond data, I enjoy studying, exploring new ideas, and listening to podcasts. I’m naturally curious, detail-oriented, and always looking for better ways to understand and work with information.
 
@@ -27,14 +27,14 @@ Beyond data, I enjoy studying, exploring new ideas, and listening to podcasts. I
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Logistics Performance Analysis — Analysing key business and operational KPIs, including revenue, profit, maintenance costs, trips and customer performance, using SQL and Power BI.]  
-- **Project B:** [KPI Dashboard Development — selecting relevant KPIs, preparing data with SQL and building interactive Power BI dashboards to communicate performance.]
-- **Content Creation:** [Data Analytics Journey — documenting my learning, projects and practical experiences across TikTok and Instagram.]
+- **Project A:** Logistics Performance Analysis — Analysing key business and operational KPIs, including revenue, profit, maintenance costs, trips and customer performance, using SQL and Power BI. 
+- **Project B:** KPI Dashboard Development — selecting relevant KPIs, preparing data with SQL and building interactive Power BI dashboards to communicate performance.
+- **Content Creation:**[Data Analytics Journey — documenting my learning, projects and practical experiences across TikTok and Instagram.
 
 ## 🌱 Currently Learning 
 
-- [Advanced SQL.]
-- [Advanced Python.]
+- Advanced SQL.
+- Advanced Python.
 
 ## 🛠️ Technical Skillset
 
